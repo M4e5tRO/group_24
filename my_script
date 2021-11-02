@@ -1,0 +1,17 @@
+#!/bin/bash
+# my_script
+echo "Зайти в папку"
+cd group_24
+echo "Создать 3 папки"
+mkdir one two three
+echo "Зайти в любоую папку"
+cd one
+echo "Создать 5 файлов (3 txt, 2 json)"
+touch 1.txt 2.txt 3.txt 4.json 5.json
+echo "Создать 3 папки"
+mkdir four five six
+echo "Вывести список содержимого папки"
+ls -la
+echo "Переместить любые 2 файла, которые вы создали, в любую другую папку"
+mv ./3.txt ./four/3.txt
+mv ./4.json ../two/4.json
