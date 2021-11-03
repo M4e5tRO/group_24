@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <new2>
-	<full_name>Luzan Mikhail Aleksandrovich</full_name>,
+	<full_name>Luzan Mikhail Aleksandrovich</full_name>
         <age>33</age>
         <pets>I don&apos;t have any pets</pets>
         <salary>400$+</salary>
+	<favorite_movie>The Count of Monte Cristo (2002) was directed by Kevin Reynolds</favorite_movie>
+	<favorite_TV_series>Sherlock (2010-2017)</favorite_TV_series>
+	<favorite_food>Draniki with sour cream</favorite_food>
+	<favorite_season>Winter</favorite_season>
+	<the_country_I_would_like_to_visit>England, especially I want to spend a week in London</the_country_I_would_like_to_visit>
 </new2>
